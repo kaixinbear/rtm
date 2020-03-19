@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -std=c++11 -O3 -O3 -DNDEBUG  -shared  -o example.cpython-37m-x86_64-linux-gnu.so CMakeFiles/example.dir/example.cpp.o  -L/usr/local/cuda-9.0/lib64 -flto -Wl,-rpath,/usr/local/cuda-9.0/lib64 
