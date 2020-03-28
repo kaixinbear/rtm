@@ -18,11 +18,14 @@ cd ~/Project/RTM/src/lib/utils
 
 make 
 ~~~
+~~~
  ~/PScanning dependencies of target energy
 [ 50%] Building CXX object CMakeFiles/energy.dir/energy.cpp.o
 [100%] Linking CXX shared module energy.cpython-36m-x86_64-linux-gnu.so
 [100%] Built target energyroject/RTM/src/lib/utils$ make
+~~~
 Then test if you have install energy module successfully.
+
 ~~~
 
 (CenterNet) kaixin1@213c6db174e2:~/Project/RTM/src/lib/utils$ python
